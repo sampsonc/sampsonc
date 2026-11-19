@@ -3,6 +3,7 @@
 I'm Carl Sampson, an application security researcher and engineer. I hunt vulnerability patterns — especially in web apps and cloud services — and I build the tools and references I wish I'd had on the engagement.
 
 - Senior Security Researcher at Microsoft (Azure DevSec), focused on variant hunting; previously product security at Proofpoint, Salesforce, Teradata, and Anthem
+- [ISC2 CSSLP](https://www.credly.com/earner/earned/share/d4dc6f7d-1656-40d8-80b1-aedac0d53951) (Certified Secure Software Lifecycle Professional)
 - Founded the [OWASP Indianapolis Chapter](https://owasp.org/www-chapter-indianapolis/) in 2005 and still help lead it
 - Independent research (fixed, public, linkable): [Kodi use-after-free](https://github.com/xbmc/xbmc/pull/27972) (patch author; shipped in v22) and a [Found-by credit in FFmpeg](https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls/22568)
 - [csp-toolkit](https://github.com/sampsonc/csp_toolkit) — CSP analysis, bypass detection, and CI gating ([PyPI](https://pypi.org/project/csp-toolkit/))
